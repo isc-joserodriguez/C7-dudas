@@ -5,3 +5,11 @@
     background-size: cover;
     background-position: -70px center;
 }
+
+.btn-primary{
+    background-color: darkmagenta;
+}
+
+.btn-primary:hover{
+    background-color: rgb(101, 29, 101);
+}
