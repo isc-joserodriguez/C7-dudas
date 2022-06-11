@@ -1,0 +1,1 @@
+var mensaje = 'Hola que tal.'
